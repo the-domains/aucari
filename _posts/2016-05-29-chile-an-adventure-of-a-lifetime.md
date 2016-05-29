@@ -1,11 +1,11 @@
 ---
 description: 'Discover the amazing wonders of the end of the world in its first all-inclusive tours, crafted to ignite new appreciation for nature, while making the best out of your time. We aim to give you a life-changing experience by driving, flying, sailing and trekking to reach landscapes of marvel, connecting with Earth like never before.'
-dateModified: '2016-05-29T02:44:00.871Z'
-datePublished: '2016-05-29T02:44:10.082Z'
+dateModified: '2016-05-29T15:51:54.384Z'
+datePublished: '2016-05-29T15:51:55.160Z'
 title: 'Chile: an Adventure of a Lifetime'
 author: []
-starred: false
 sourcePath: _posts/2016-05-29-chile-an-adventure-of-a-lifetime.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
