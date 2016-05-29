@@ -1,14 +1,14 @@
-layout_spectrum: 0.736565035302192
+layout_spectrum: 0.8563822403084487
 typography_spectrum: 0.36886237910948694
 color:
-  brandStrength: 0.580902807880193
-  lightness: 0.7663334698881954
-  saturation: 0.03389195795170963
-  rhythmicContrast: 0.24340793816372752
+  brandStrength: 0.6077053619083017
+  lightness: 0.03452158230356872
+  saturation: 0.47951031127013266
+  rhythmicContrast: 0.5287552871741354
   brandColors:
-    - '#D8CAA8'
-    - '#5C832F'
-    - '#284907'
-    - '#382513'
-    - '#363942'
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
 name: Aucari
