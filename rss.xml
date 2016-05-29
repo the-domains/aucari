@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Aucari]]></title>
+        <description><![CDATA[Aucari]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 29 May 2016 16:00:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Aucari - All-Inclusive Tours in Chile]]></title>
+            <description><![CDATA[<article><h1>Aucari - All-Inclusive Tours in Chile</h1><p>Discover the amazing wonders of the end of the world in its first all-inclusive tours, crafted to ignite new appreciation for nature, while making the best out of your time. We aim to give you a life-changing experience by driving, flying, sailing and trekking to reach landscapes of marvel, connecting with Earth like never before.</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=K3qSnahdv0s</link>
+            <guid isPermaLink="false">5044f696-8bb1-4c65-8c02-902424f94392</guid>
+            <pubDate>Sun, 29 May 2016 15:59:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
